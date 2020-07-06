@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 40px;
+}
+.bg_color{
+    background-color: #FBE7E5;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 40px 40px;
+    transition: transform 2s ease-in-out;
+}
+.cat1{
+    background-color: orange
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blueviolet;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+}
+.categories h1{
+    color: aliceblue;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 10px 10px 10px lightgreen;
+}
