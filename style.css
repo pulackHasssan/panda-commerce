@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 40px;
+    margin-bottom: 80px;
 }
 .bg_color{
     background-color: #FBE7E5;
@@ -29,5 +29,11 @@
 }
 .card{
     border:none;
-    box-shadow: 10px 10px 10px lightgreen;
+    box-shadow: 5px 5px 10px lightgreen;
+}
+#subscribe{
+    padding:30px;
+}
+footer{
+    text-align:center;
 }
